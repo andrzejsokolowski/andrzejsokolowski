@@ -2,8 +2,8 @@
 Currently doing test automation in Typescript/Playwright for Vizlib Poland.
 
  <div>
-  <a href="https://github.com/CrisBid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrzejsokolowski&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <a href="https://github.com/andrzejsokolowski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrzejsokolowski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrzejsokolowski&layout=compact&langs_count=9&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>

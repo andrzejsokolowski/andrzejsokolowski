@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently doing test automation in Typescript/Playwright for Vizlib Poland.
+Currently doing test automation in Typescript/Playwright
 
  <div>
   <a href="https://github.com/andrzejsokolowski">

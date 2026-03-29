@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently doing test automation in Typescript/Playwright
+Currently doing automation work in AI - Test flow automation, reinforcement learning and machine translation.
 
 <div style="display: inline_block"><br>
 <text>Langs:</text>
@@ -7,12 +7,4 @@ Currently doing test automation in Typescript/Playwright
  Typescript<img align="center" alt="Andrzej-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
- <div>
-   Visit my socials:
 
-
- </div>
-<div> 
-  <a href="https://www.linkedin.com/in/ANSOK99" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
